@@ -1,0 +1,76 @@
+
+header {
+    font-family: "Raleway",sans-serif;
+    padding : 10px;
+    margin: 10px;
+}
+
+body {
+    background-color: #f1f1f1;
+}
+
+main {
+    font-family: "Raleway",sans-serif;
+    padding: 10px;
+    margin: 10px;
+}
+
+:root {
+    --color-dominant: #FFFFFF;
+    --color-complement: #f1f1f1;
+   
+}
+
+#h1 {
+    padding-left: 45px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+p {
+    padding: 10px;
+    padding-left: 5px;
+    padding-bottom: 20px;
+    margin: 6px;
+}
+
+h2 {
+
+    padding: 3px;
+    padding-left: 5px;
+    margin: 3px;
+}
+
+h3 {
+    padding: 10px;
+    margin: 10px;
+}
+
+h4 {
+    padding-left: 20px;
+}
+
+footer {
+    padding: 10px;
+    padding-left: 52px;
+    background-color: #616161;
+    font-family: "Raleway", sans-serif;
+}
+
+a:hover {
+color: gray;
+}
+
+a:link {
+    text-decoration-line: none;
+}
+
+a {
+    color: #000000;
+}
+
+img {
+    width: 100%;
+    padding-left: 0px;
+}

@@ -5,7 +5,7 @@
 
  - *tijd: **10-15u***
  - *start: **9 november***
- - *einde: **15 december*** (deadline)
+ - *einde: **16 december*** (deadline)
  - *onderwerp:*
    - ***markup***
    - ***opmaak***
