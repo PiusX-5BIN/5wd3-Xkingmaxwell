@@ -1,0 +1,37 @@
+
+main{
+    background-color: var(--color-dominant);
+}
+
+.main {
+    background-color: var(--color-complement);
+    text-emphasis-style: sans-serif;
+}
+
+#inleiding {
+    box-shadow: 0 0 .2rem ;
+    background-color: #FFFFFF;
+}
+   
+#getuigenis1 {
+    box-shadow: 0 0 .2rem;
+    background-color: #FFFFFF;
+}
+
+#getuigenis2 {
+    box-shadow: 0 0 .2rem;
+    background-color: #FFFFFF;
+}
+.team-mates {
+    box-shadow: 0 0 .2rem ;
+    background-color: #FFFFFF;
+}
+ 
+#strips {
+    box-shadow: 0 0 0rem ;
+    background-color: #FFFFFF;
+}
+
+footer {
+    box-shadow: 0 0 0rem ;
+}
