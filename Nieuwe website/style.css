@@ -95,5 +95,51 @@ top: 0;
     font-weight:bold;  
 }
 
-/*gaat over dat kleine vierkantje waar ( you like me ?)*/
+/*About section*/
+#about{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-bottom: 50px;
 
+}
+
+#plc{
+    display: flex;
+}
+
+#plc img{
+    width: 7px;
+    height: 10px
+}
+
+#intro{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    padding: 10px;
+}
+#intro h2{
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+/*nu de portfolio section*/
+#portfolio{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: aliceblue;
+}
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+.gallery img{
+   width: 360px; 
+   height: 240px;
+   margin: 10px;
+}
