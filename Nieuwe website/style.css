@@ -95,7 +95,7 @@ top: 0;
     font-weight:bold;  
 }
 
-/*About section*/
+/*About me section*/
 #about{
     display: flex;
     flex-direction: column;
@@ -110,8 +110,8 @@ top: 0;
 }
 
 #plc img{
-    width: 7px;
-    height: 10px
+    width: 5px;
+    height: 5px
 }
 
 #intro{
@@ -131,6 +131,8 @@ top: 0;
     flex-direction: column;
     background-color: black;
     color: aliceblue;
+    align-items: center;
+    padding: 20px;
 }
 .gallery{
     display: flex;
@@ -142,4 +144,28 @@ top: 0;
    width: 360px; 
    height: 295px;
    margin: 10px;
+} 
+/* Services Section  */
+#services{
+    display: flex;
+    flex-direction:column ;
+    padding: 20px;
+}
+
+.row{
+    display: flex;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 450px;
+    border: 1px solid black;
+    margin: 10px;
+    align-items: center;
+    text-align: justify;
+    padding: 10px;
+    border-radius: 15px;
+    background: linear-gradient(to top,rgb(255,255,45)50%,blue 50px);
 }
